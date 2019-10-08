@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/media/eddy/DATA/DEV/DevOps/ExpertDevOps/P3-local-env","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
